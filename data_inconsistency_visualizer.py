@@ -77,7 +77,7 @@ def plot_inconsistency_donut():
     plt.tight_layout()
 
     # Save and display the visualization
-    plt.savefig("pie_2.jpg")
+    plt.savefig("donut.jpg")
     plt.show()
 
 
